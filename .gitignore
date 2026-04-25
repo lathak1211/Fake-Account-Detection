@@ -7,3 +7,5 @@ __pycache__/
 *.pt
 *.pth
 .ipynb_checkpoints/
+TwiBot-22/
+*.json
